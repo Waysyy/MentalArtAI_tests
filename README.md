@@ -16,6 +16,7 @@
 * Python
 * httpx
 * Pytest
+* Playwright
 
 ## Что проверяют API-тесты:
 1. Проверка доступности сервиса (Health Check).
