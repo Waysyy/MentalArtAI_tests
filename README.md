@@ -1,8 +1,17 @@
 # MentalArtAI_tests
 
-Автоматизированные smoke и негативные тесты для проверки базового сценария пользователя:
+## MindMap MentaArtAI
+![MindMap](./docs/MindMap.png)
+
+## Документы
+* [Чек-лист](https://docs.google.com/spreadsheets/d/1jkDtG7bphK87ro8ypy4luAlWCQiVVaaVw9lIVfJmPEI/edit?usp=sharing)
+* [Тест-кейсы](./docs/TEST_CASES.md)
+* [Пример баг-репорта](./docs/BUG_REPORTS.md)
+
+## Автоматизированные smoke и негативные тесты для проверки базового сценария пользователя:
 ![Сценарий](./assets/Route.png)
 *Ссылка на сайт: https://mentalartai.ru/*
+
 ## Стек
 * Python
 * httpx
